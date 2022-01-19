@@ -1,6 +1,6 @@
 Welcome to my Github!
 
-Currently I'm a college student at De Anza/Foothill community colleges and aiming to transfer to a university soon.
+Currently I'm a college student at De Anza/Foothill community colleges and aiming to transfer to a university in fall of 2022.
 Here are some of my Computer Science course projects that I have created.
 
 I started out learning python in CIS 40, then took CIS 41A and 35A concurrently. 
