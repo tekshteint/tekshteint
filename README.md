@@ -1,6 +1,6 @@
 Welcome to my Github!
 
-Currently I'm a college student at CSULB and aiming to graduate around late 2023 or mid 2024.
+Currently I'm a college student at CSULB and aiming to graduate around 2024.
 Here are some of my Computer Science course projects that I have created.
 
 I started out learning python in CIS 40, then took CIS 41A and 35A concurrently. 
