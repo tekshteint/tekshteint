@@ -4,4 +4,4 @@ I'm Graduating in December 2024 with my BS in Computer Science and a Minor in Cy
 
 *I like to make things, and making them secure is even more fun*😃
 
-For more info about me, check out my [website](http://tom.ekshtein.com)
+For more info about me, check out my [website](https://tom.ekshtein.com)
